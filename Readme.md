@@ -29,4 +29,4 @@ In this project we are going to use amazon product (ps5) search result link as t
 2. It contains a jupyter notebook file **`Amazon Web Scraper.ipynb`** which contains the final codes to be used in the project.
 
 thank you
-Walaa Zidan
+Walaa AboHassan
